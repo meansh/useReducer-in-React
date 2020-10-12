@@ -1,7 +1,5 @@
 const { BUY_CAKE } = require("./cakeTypes");
 
-//ANCHOR: Reducer = Accepts (previousState, action) = > newState
-
 const previousState = {
   numOfCakes: 10,
 };
